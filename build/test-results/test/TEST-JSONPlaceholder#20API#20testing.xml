@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JSONPlaceholder API testing" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-01-23T13:51:55" hostname="DESKTOP-19EA2UN" time="2.87">
+  <properties/>
+  <testcase name="GET request for a single todo item" classname="JSONPlaceholder API testing" time="1.615"/>
+  <testcase name="POST request to create a new post" classname="JSONPlaceholder API testing" time="0.49"/>
+  <testcase name="PUT request to update a post" classname="JSONPlaceholder API testing" time="0.5"/>
+  <testcase name="DELETE request to delete a post" classname="JSONPlaceholder API testing" time="0.265"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
